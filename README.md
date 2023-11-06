@@ -35,6 +35,6 @@ The repository is dedicated to a React App with Typescript, Redux Toolkit, Redux
 
 <div align="center">
 
-![demo.gif](./image/demo.gif)
+![demo.gif](./gif/demo.gif)
 
 </div>    
