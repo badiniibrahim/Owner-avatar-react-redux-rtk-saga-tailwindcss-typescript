@@ -29,3 +29,12 @@ The repository is dedicated to a React App with Typescript, Redux Toolkit, Redux
 - Redux Toolkit
 - Redux Saga
 - React Hook Form
+
+
+## About
+
+<div align="center">
+
+![demo.gif](./image/demo.gif)
+
+</div>    
