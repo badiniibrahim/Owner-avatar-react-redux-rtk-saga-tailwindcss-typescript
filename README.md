@@ -13,10 +13,15 @@ The repository is dedicated to a React App with Typescript, Redux Toolkit, Redux
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badini-ibrahim-s-306b119b/)
 
 ## About this Repository
-![GitHub language count](https://img.shields.io/github/languages/count/react-redux-rtk-saga-tailwindcss-typescript)
-![GitHub top language](https://img.shields.io/github/languages/top/react-redux-rtk-saga-tailwindcss-typescript)
-![GitHub last commit](https://img.shields.io/github/last-commit/react-redux-rtk-saga-tailwindcss-typescript)
-![Github Repo Size](https://img.shields.io/github/repo-size/react-redux-rtk-saga-tailwindcss-typescript)
+<div align="center">
+
+![ts](https://img.shields.io/badge/TypeScript%20-%23F7DF1E.svg?logo=typescript&logoColor=white&color=3178C6)
+![react](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![redux](https://img.shields.io/badge/Redux%20Toolkit-593D88?logo=redux&logoColor=white)
+![redux-saga](https://img.shields.io/badge/Redux%20Saga-86D46B?logo=redux%20saga&logoColor=white&color=74C417)
+![storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white)
+![license](https://img.shields.io/github/license/rbiedrawa/kafka-monitoring)
+</div>
 
 ## Technologies
 - React.js
