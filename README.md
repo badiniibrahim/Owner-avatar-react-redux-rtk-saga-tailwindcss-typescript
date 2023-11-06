@@ -41,7 +41,8 @@ The repository is dedicated to a React App with Typescript, Redux Toolkit, Redux
 1. [React.js](https://reactjs.org/) CRUD example with Redux Saga.
 
 2. [Typescript](https://www.typescriptlang.org/) for type safety
-3. Core libraries
+   
+4. Core libraries
     * [Redux](https://redux.js.org/)
     * [Redux Toolkit](https://redux-toolkit.js.org/)
     * [Redux Saga](https://redux-saga.js.org/)
@@ -50,6 +51,8 @@ The repository is dedicated to a React App with Typescript, Redux Toolkit, Redux
     * [Yup](https://github.com/jquense/yup)
     * [Axios](https://github.com/axios/axios)
     * [Tailwindcss](https://tailwindcss.com/)
-4. Other tools/libraries
+  
+5. Other tools/libraries
     * [StoryBook](https://storybook.js.org/)
-5. Tailwindcss UI Dark Mode support
+  
+6. Tailwindcss UI Dark Mode support
