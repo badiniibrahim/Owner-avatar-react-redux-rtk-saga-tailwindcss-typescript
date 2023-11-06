@@ -13,7 +13,7 @@ const PostCard: FC<Props> = ({ post, onDeleteClick }) => {
   };
 
   return (
-    <div className="flex flex-row bg-white mt-4 w-[300px] rounded-sm justify-between px-1 border-red-400">
+    <div className="flex flex-row border-2 border-indigo dark:text-black mt-4 w-[300px] rounded-sm justify-between px-1 text-black dark:bg-white">
       <span>
         <strong>{post.title}</strong>
       </span>

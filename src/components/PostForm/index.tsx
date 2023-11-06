@@ -31,21 +31,23 @@ const PostForm: FC<Props> = ({ onSubmitClick }) => {
         className="flex flex-col w-[300px]"
         onSubmit={handleSubmit(onSubmitClick)}
       >
-        <label className="text-white text-[10px]">Title</label>
+        <label className="dark:text-white text-[10px] text-black">Title</label>
         <input
           {...register("title")}
           type="text"
-          placeholder="ggggggg"
-          className="border-none rounded-sm px-1 placeholder:text-[10px] text-[10px] h-[25px]"
+          placeholder="Title"
+          className="rounded-sm px-1 placeholder:text-[10px] text-[10px] h-[25px] border-2 border-indigo dark:bg-white dark:text-black "
         />
         <span className="text-sm text-red-600">{errors.title?.message}</span>
 
-        <label className="text-white text-[10px] pt-2">Content</label>
+        <label className="text-black text-[10px] pt-2 dark:text-white">
+          Content
+        </label>
         <input
-          placeholder="ggggggg"
+          placeholder="Content"
           {...register("content")}
           type="text"
-          className="border-none rounded-sm px-1 placeholder:text-[10px] text-[10px] h-[25px]"
+          className="border-2 border-indigo dark:bg-white rounded-sm px-1 placeholder:text-[10px] text-[10px] h-[25px]  dark:text-black"
         />
         <span className="text-sm text-red-600">{errors.content?.message}</span>
         <button
