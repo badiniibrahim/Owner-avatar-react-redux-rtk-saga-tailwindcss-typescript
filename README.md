@@ -39,6 +39,7 @@ The repository is dedicated to a React App with Typescript, Redux Toolkit, Redux
 
 </div>    
 1. [React.js](https://reactjs.org/) CRUD example with Redux Saga.
+
 2. [Typescript](https://www.typescriptlang.org/) for type safety
 3. Core libraries
     * [Redux](https://redux.js.org/)
