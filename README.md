@@ -53,4 +53,18 @@ The repository is dedicated to a React App with Typescript, Redux Toolkit, Redux
     * [Tailwindcss](https://tailwindcss.com/)
 5. Other tools/libraries
     * [StoryBook](https://storybook.js.org/)
+      
 6. Tailwindcss UI Dark Mode support
+
+   ## :running: Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/badiniibrahim/react-redux-rtk-saga-tailwindcss-typescript.git
+```
+## Installation
+
+```bash
+$ yarn install
+```
